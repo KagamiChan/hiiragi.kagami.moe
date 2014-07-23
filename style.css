@@ -1,0 +1,32 @@
+body{
+    font-family: "Source Sans Pro", "Source Han Sans", "Noto Sans", "Hiragino Sans GB", "Lihei Pro", "Microsoft Yahei", "Wenquanyi Microhei", sans-serif;
+    font-weight: 100;
+    color: #333;
+    
+}
+
+wrapper{
+    display: block;
+    margin: auto;
+    width: 800px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 400;
+    color: #333;
+}
+
+h1{
+    text-indent: -9999px;
+    overflow: hidden;
+    display: block;
+    width:800px;
+    height: 450px;
+    background-image: url('./かがみ.jpg');
+}
+
+copyright{
+    text-align: right;
+    display: block;
+}
