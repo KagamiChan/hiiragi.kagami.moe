@@ -1,6 +1,6 @@
 body{
-    font-family: "Source Sans Pro", "Source Han Sans", "Noto Sans", "Hiragino Sans GB", "Lihei Pro", "Microsoft Yahei", "Wenquanyi Microhei", sans-serif;
-    font-weight: 100;
+    font-family: "Open Sans", "Source Han Sans", "Noto Sans", "Hiragino Sans GB", "Lihei Pro", "Microsoft Yahei", "Wenquanyi Microhei", sans-serif;
+    font-weight: 300;
     color: #333;
     
 }
@@ -13,7 +13,7 @@ wrapper{
 
 a{
     text-decoration: none;
-    font-weight: 400;
+    font-weight: 600;
     color: #333;
 }
 
